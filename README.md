@@ -78,7 +78,6 @@ The project generates:
 - Reconstruction Error Plot
 - Reconstruction Error Distribution
 - Confusion Matrix
-- Classification Report
 
 ---
 
