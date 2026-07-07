@@ -41,10 +41,11 @@ The implementation includes data preprocessing, normalization, sliding window se
 Anomaly-Detection-in-Time-Series-Data-Using-Deep-Learning-Framework/
 │
 ├── data/
-├── src/
-├── notebooks/
 ├── plots/
-├── references
+├── references/
+├── Project_Report
+├── Implimentation_code
+├── requirements.txt
 └── README.md
 ```
 
@@ -60,13 +61,12 @@ Anomaly-Detection-in-Time-Series-Data-Using-Deep-Learning-Framework/
 6. Calculate Reconstruction Error
 7. Detect Anomalies
 8. Evaluate Performance
-9. Compare with Traditional Methods
 
 ---
 
 ## 📊 Results
 
-The LSTM Autoencoder successfully models normal temporal behavior and detects anomalous sequences using reconstruction error. The model's performance is compared against traditional anomaly detection algorithms, demonstrating the effectiveness of deep learning for time series anomaly detection.
+The LSTM Autoencoder successfully models normal temporal behavior and detects anomalous sequences using reconstruction error. 
 
 ---
 
@@ -79,7 +79,6 @@ The project generates:
 - Reconstruction Error Distribution
 - Confusion Matrix
 - Classification Report
-- Comparative Results
 
 ---
 
@@ -135,7 +134,3 @@ If you use this repository in your research, please consider citing the original
 This project is developed for educational and research purposes.
 
 ---
-
-## ⭐ Support
-
-If you found this project helpful, please consider giving it a ⭐ on GitHub.
