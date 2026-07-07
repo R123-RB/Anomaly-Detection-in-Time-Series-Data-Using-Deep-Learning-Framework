@@ -105,9 +105,12 @@ or execute the Jupyter Notebook.
 
 ## 📚 Dataset
 
-**Washington State Electric Vehicle Population Dataset**
+This project uses the **Washington State Electric Vehicle Population Data** dataset, which contains information on Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) registered through the Washington State Department of Licensing.
 
-Download from the official data source and place it inside the `data/` directory.
+**Dataset Source:**  
+https://catalog.data.gov/dataset/electric-vehicle-population-data
+
+The dataset is publicly available through **Data.gov** and is maintained by the **State of Washington**. :contentReference[oaicite:0]{index=0}
 
 ---
 
