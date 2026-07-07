@@ -110,7 +110,7 @@ This project uses the **Washington State Electric Vehicle Population Data** data
 **Dataset Source:**  
 https://catalog.data.gov/dataset/electric-vehicle-population-data
 
-The dataset is publicly available through **Data.gov** and is maintained by the **State of Washington**. :contentReference[oaicite:0]{index=0}
+The dataset is publicly available through **Data.gov** .
 
 ---
 
